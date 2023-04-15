@@ -1,0 +1,3 @@
+is_churn	percentage(%)
+0	35.72
+1	64.28
